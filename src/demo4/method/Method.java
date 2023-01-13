@@ -9,5 +9,7 @@ public class Method
 		System.out.println("GITHUB 2");
 
 		System.out.println("GITHUB 3");
+		
+		System.out.println("GITHUB 3");
 	}
 }
